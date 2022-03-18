@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my profile!
 
-<!--
-**Yokotes/Yokotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+I'm a front-end developer. Currently I'm working at Zuzex company 🏢 as a Javascript developer 🖥️.
+On weekends 🌴 I'm developing my pet projects. Most of them are public and you can watch 👀 them under this README file.
 
-Here are some ideas to get you started:
+My stack:
+✔️ React
+✔️ Redux (redux-observable, sage, thunk), Immutable js
+✔️ Material UI, Bootstrap
+✔️ Typescript, Javascript
+✔️ Lerna js
+✔️ Webpack, Module federation
+✔️ Git, BitBucket
+✔️ Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*It was nice to meet you! Have a nice day!*
