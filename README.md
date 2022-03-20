@@ -1,18 +1,12 @@
-# Welcome to my profile!
+# Welcome to my code castle, Traveler!
 
-Hi there 👋  
-I'm a front-end developer. Currently I'm working at Zuzex company 🏢 as a Javascript developer 🖥️.  
-On weekends 🌴 I'm developing my pet projects. Most of them are public and you can watch 👀 them under this README file.
+Welcome, brave Traveler! This is my code castle where I store my treasures.
 
-My stack:
+**What kinds of treasure do I store here?**  
+Of course it's a pure essence of enthusiasm and bugs. People often calls it *"pet projects"*  
+I'd been developing them when I was young and very motivated. 
 
-✔️ React  
-✔️ Redux (redux-observable, sage, thunk), Immutable js  
-✔️ Material UI, Bootstrap  
-✔️ Typescript, Javascript  
-✔️ Lerna js  
-✔️ Webpack, Module federation  
-✔️ Git, BitBucket  
-✔️ Jira  
+**What did happen with me?**  
+Oh, brave traveler, I've got a job. Nowadays I'm developing projects not for fun. I'm doing it for people and companies.
 
-**It was nice to meet you! Have a nice day!**
+*Keep going traveler, I hope you will find here something useful...*
