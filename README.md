@@ -9,4 +9,4 @@ I'd been developing them when I was young and very motivated.
 **What did happen with me?**  
 Oh, brave traveler, I've got a job. Nowadays I'm developing projects not for fun. I'm doing it for people and companies.
 
-*Keep going traveler, I hope you will find here something useful...*
+*Keep going traveler, I hope you will find something useful here...*
