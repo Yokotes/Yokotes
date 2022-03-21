@@ -7,6 +7,6 @@ Of course it's a pure essence of enthusiasm and bugs. People often calls it *"pe
 I'd been developing them when I was young and very motivated. 
 
 **What happened to me?**  
-Oh, brave traveler, I've got a job. Nowadays I'm developing projects not for fun. I'm doing it for people and companies.
+Oh, brave traveler, I've gotten a job. Nowadays I'm developing projects not for fun. I'm doing it for people and companies.
 
 *Keep going traveler, I hope you will find something useful here...*
