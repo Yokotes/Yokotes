@@ -1,12 +1,16 @@
-# Welcome to my code castle, Traveler!
+# ⚛ Frontend Engineer
+👋 Hi! I'm Viktor Borzov, Frontend Engineer. Here you can find my pet projects.
 
-Welcome, brave Traveler! This is my code castle where I store my treasures.
+🖥 **My stack:** React, Typescript, UI-kit's (Material UI, AntDesign), Redux (with its middlewares: Saga, Thunk, Observable. also Toolkit and Query), Webpack, Vite, Next.js... there are a lot of libs that I've been working with.
 
-**What kinds of treasure do I store here?**  
-Of course it's a pure essence of enthusiasm and bugs. People often calls it *"pet projects"*  
-I'd been developing them when I was young and very motivated. 
+## 📖 Learning
+Currently I'm learning Vue.js 3
 
-**What happened to me?**  
-Oh, brave traveler, I've gotten a job. Nowadays I'm developing projects for people and companies.
+Here are projects:
+- [Todo App](https://github.com/Yokotes/vue-todo-app)
 
-*Keep going traveler, I hope you will find something useful here...*
+Maybe will be more later...
+
+## ⚙ W.I.P. projects
+Also in free time I'm working on something.
+- [Boring Project](https://github.com/Yokotes/boring-project) - fullstack app (React + Express + SQLite) fit tracker
