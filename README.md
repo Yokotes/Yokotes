@@ -7,8 +7,8 @@
 Currently I'm learning Vue.js 3 and Node.js
 
 Here are study projects:
-- [Todo App](https://github.com/Yokotes/vue-todo-app)
-- [HTTP Server from scratch](https://github.com/Yokotes/http_from_scratch)
+- [Todo App](https://github.com/Yokotes/vue-todo-app) - simple Vue.js 3 app
+- [HTTP Server from scratch](https://github.com/Yokotes/http_from_scratch) - http server built without npm libs, only Node.js
 
 Maybe will be more later...
 
