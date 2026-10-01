@@ -4,11 +4,10 @@
 🖥 **My stack:** React, Typescript, UI-kit's (Material UI, AntDesign), Redux (with its middlewares: Saga, Thunk, Observable. also Toolkit and Query), Webpack, Vite, Next.js... there are a lot of libs that I've been working with.
 
 ## 📖 Learning
-Currently I'm learning Vue.js 3 and Node.js
+Currently I'm learning C++.
 
 Here are study projects:
-- [Todo App](https://github.com/Yokotes/vue-todo-app) - simple Vue.js 3 app
-- [HTTP Server from scratch](https://github.com/Yokotes/http_from_scratch) - http server built without npm libs, only Node.js
+- [Todo App](https://github.com/Yokotes/todo-cpp) - simple console todo app
 
 Maybe will be more later...
 
