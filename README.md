@@ -8,6 +8,7 @@ Currently I'm learning C++.
 
 Here are study projects:
 - [Todo App](https://github.com/Yokotes/todo-cpp) - simple console todo app
+- [Snake game](https://github.com/Yokotes/snake-cpp) - snake game, created using ncurses
 
 Maybe will be more later...
 
