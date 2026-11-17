@@ -15,4 +15,3 @@ Maybe will be more later...
 
 ## ⚙ W.I.P. projects
 Also in free time I'm working on something.
-- [Boring Project](https://github.com/Yokotes/boring-project) - fullstack app (React + Express + SQLite) fit tracker
