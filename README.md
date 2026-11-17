@@ -4,12 +4,12 @@
 🖥 **My stack:** React, Typescript, UI-kit's (Material UI, AntDesign), Redux (with its middlewares: Saga, Thunk, Observable. also Toolkit and Query), Webpack, Vite, Next.js... there are a lot of libs that I've been working with.
 
 ## 📖 Learning
-Currently I'm learning C++.
+Currently I'm learning C/C++.
 
 Here are study projects:
 - [Todo App](https://github.com/Yokotes/todo-cpp) - simple console todo app
 - [Snake game](https://github.com/Yokotes/snake-cpp) - snake game, created using ncurses
-- [Text Editor](https://github.com/Yokotes/text-editor) - Vim-like text editor
+- [Text Editor](https://github.com/Yokotes/text-editor) - text editor, created using ncurses
 
 Maybe will be more later...
 
