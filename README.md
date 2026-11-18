@@ -15,3 +15,4 @@ Maybe will be more later...
 
 ## ⚙ W.I.P. projects
 Also in free time I'm working on something.
+- [NoSQL database](https://github.com/Yokotes/my_nosql) - attempt to make NoSQL database in C
